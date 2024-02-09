@@ -17,4 +17,4 @@
   1. The varaible "ratio" in function "summarize" is used to define the lenght of summary generated in terms of percentage of number of sentences in original report.
   2. Adjust the folders path as needed.
   3. you change the naming convections as needed in "Naming the text files according to given convictions" section.
-  4. see the workflow in "workflow.jpg"
+  4. see the workflow in "workflow.png"
